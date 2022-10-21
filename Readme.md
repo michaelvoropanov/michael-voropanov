@@ -48,3 +48,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michael-voropanov&theme=dark" alt="michael-voropanov" /></p>
 
+<div id="github-widget" data-user="michael-voropanov" data-display="pop_repos,calendar"></div>
+  <script src="https://gh-widget.oyanglul.us/index.js"></script>
