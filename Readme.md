@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">Student, aspiring astronaut focused on the backed and the numbers</h3>
+<h3 align="center">Student, aspiring astronaut, focused on the backed and the numbers</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michael-voropanov&label=Profile%20views&color=0e75b6&style=flat" alt="michael-voropanov" /> </p>
 
