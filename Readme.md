@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **IDK space rockets?**
 
-- 📫 How to reach me **michael.voropanov@gmail.com**
+- 📫 How to reach me **michael.voropanov@gmail.com** + https://discord.gg/7c4xXCbxS8
 
 - ⚡ Fun fact **Falcon heavy has 5 million pounds of thrust**
 
